@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--This file targeting API levels<14.-->
+    <dimen name="margin">15dp</dimen>
+    <dimen name="video_height">250dp</dimen>
+    <dimen name="tablet_size">18sp</dimen>
+    <dimen name="tablet_video_height">550dp</dimen>
+    <!--=======================WIDGET DIMENSIONS===============-->
+    <!--Based on Udacity widget tutorial and Android widget doc-->
+    <dimen name="margin_widget">8dp</dimen>
+    <dimen name="padding_widget">20dp</dimen>
+    <dimen name="text_size_widget">24sp</dimen>
+</resources>

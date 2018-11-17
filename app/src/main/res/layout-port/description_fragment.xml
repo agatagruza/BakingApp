@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".views.DescriptionListFragment"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/margin"
+        android:textColor="@color/cardText"
+        android:background="@color/cardBack"
+        android:textSize="@dimen/margin"
+        android:layout_margin="@dimen/margin"
+        android:layout_weight="1"
+        android:scrollbars = "vertical"
+        android:id="@+id/ingredients_text"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:id="@+id/description_list_rv"/>
+
+</LinearLayout>

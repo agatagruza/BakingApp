@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--=======================WIDGET DIMENSIONS===============-->
+    <!--
+    This file targeting API levels from 14 onwards. Based on
+    Udacity widget tutorial and Android widget doc. Since Android
+    API 14, Android automatically includes margins between widgets
+    as they appear on the user's home screen. On API <14 we specify
+    a margin to include around the widget
+    -->
+    <dimen name="margin_widget">0dp</dimen>
+
+</resources>

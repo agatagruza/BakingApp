@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Baking App</string>
+
+    <string name="no_connection">"No Internet Connection"</string>
+    <string name="exit">"You need to have Internet Connection to access app. Press ok to Exit"</string>
+    <string name="name_KEY">name</string>
+    <string name="servings_KEY">servings</string>
+    <string name="image_KEY">image</string>
+    <string name="ingredients_KEY">ingredients</string>
+    <string name="steps_KEY">steps</string>
+    <string name="quantity_KEY">quantity</string>
+    <string name="measure_KEY">measure</string>
+    <string name="ingredient_KEY">ingredient</string>
+    <string name="id_KEY">id</string>
+    <string name="brief_description_KEY">shortDescription</string>
+    <string name="description_KEY">description</string>
+    <string name="video_KEY">videoURL</string>
+    <string name="thumbnail_KEY">thumbnailURL</string>
+    <string name="recipe_inst">recipe_inst</string>
+    <string name="recipe_title">recipe_title</string>
+    <string name="recipe_list">recipe_list</string>
+    <string name="position">position</string>
+    <string name="player_location">player_location</string>
+    <string name="player_state">player_state</string>
+    <string name="fragment_list">fragment_list</string>
+    <string name="fragment_description">fragment_description</string>
+    <string name="fragment_instruction">fragment_instruction</string>
+    <string name="ingredients_label">INGREDIENTS:</string>
+    <string name="videoNO">No video available for this step</string>
+    <string name="next">NEXT</string>
+    <string name="prev">PREVIOUS</string>
+    <string name="widget_no_recipe_selected">You did not select recipe yet</string>
+    <string name="appwidget_name">MY WIDGET</string>
+    <string name="adding_widget">Add widget</string>
+</resources>
